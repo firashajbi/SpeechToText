@@ -1,4 +1,4 @@
-package com.example.casperapp;
+package com.sriyanksiddhartha.speechtotext;
 
 import android.content.pm.PackageManager;
 import android.content.Intent;
